@@ -1,0 +1,79 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "false",
+  "config.encoding" : "UTF-8",
+  "config.email.suffix" : "@",
+  "config.field.mappings" : {
+    "Assignee" : {
+      "jira.field" : "assignee"
+    },
+    "Issue Type" : {
+      "jira.field" : "issuetype"
+    },
+    "Description" : {
+      "jira.field" : "description"
+    },
+    "Component/s" : {
+      "jira.field" : "components"
+    },
+    "Priority" : {
+      "jira.field" : "priority"
+    },
+    "Summary" : {
+      "jira.field" : "summary"
+    },
+    "Labels" : {
+      "jira.field" : "labels"
+    },
+    "Affects Version/s" : {
+      "jira.field" : "versions"
+    },
+    "Due Date" : {
+      "existing.custom.field" : "10010"
+    },
+    "Hardware Version" : {
+      "existing.custom.field" : "10012"
+    }
+  },
+  "config.value.mappings" : {
+    "Assignee" : {
+      "zl.ding" : "zl.ding"
+    },
+    "Issue Type" : {
+      "\tImprovement" : "4"
+    },
+    "Description" : {
+      "This is a breif bulk create validation by zl.ding." : "This is a breif bulk create validation by zl.ding."
+    },
+    "Component/s" : {
+      "\t软件" : "软件"
+    },
+    "Priority" : {
+      "\tLowest" : "5"
+    },
+    "Summary" : {
+      "\tBulk Create First Validation." : "\tBulk Create First Validation."
+    },
+    "Labels" : {
+      "\tSmartteam" : "\tSmartteam"
+    },
+    "Affects Version/s" : {
+      "st16_system_v03.01.b22" : "st16_system_v03.01.b22"
+    },
+    "Due Date" : {
+      "13/07/2016 10:10" : "13/07/2016 10:10"
+    },
+    "Hardware Version" : {
+      "\tv.01.01.0713" : "\tv.01.01.0713"
+    }
+  },
+  "config.delimiter" : ",",
+  "config.project" : {
+    "project.key" : "DEMO",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "练习专用",
+    "project.lead" : "chao.guo"
+  },
+  "config.date.format" : "dd/MM/yy hh:mm"
+}

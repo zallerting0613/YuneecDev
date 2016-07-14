@@ -1,0 +1,2 @@
+Project,Issue Type,Component/s,Priority,Affects Version/s,Assignee,Summary,Description,Attachment,Labels,Due Date,Hardware Version
+ST16(Bug),"	Improvement","	Èí¼þ","	Lowest",st16_system_v03.01.b22,zl.ding,"	Bulk Create First Validation.",This is a breif bulk create validation by zl.ding.,./CreateIssueByCsvImporter.docx,"	Smartteam",13/07/2016 10:10,"	v.01.01.0713"
