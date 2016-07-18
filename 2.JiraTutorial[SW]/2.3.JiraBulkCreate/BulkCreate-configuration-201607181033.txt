@@ -1,0 +1,128 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "false",
+  "config.encoding" : "UTF-8",
+  "config.email.suffix" : "@",
+  "config.field.mappings" : {
+    "Assignee" : {
+      "jira.field" : "assignee"
+    },
+    "Issue Type" : {
+      "jira.field" : "issuetype"
+    },
+    "Description" : {
+      "jira.field" : "description"
+    },
+    "Component/s" : {
+      "jira.field" : "components"
+    },
+    "Priority" : {
+      "jira.field" : "priority"
+    },
+    "Summary" : {
+      "jira.field" : "summary"
+    },
+    "Environment" : {
+      "jira.field" : "environment"
+    },
+    "Labels" : {
+      "jira.field" : "labels"
+    },
+    "Affects Version/s" : {
+      "jira.field" : "versions"
+    },
+    "Due Date" : {
+      "jira.field" : "duedate"
+    }
+  },
+  "config.value.mappings" : {
+    "Assignee" : {
+      "zl.ding" : "zl.ding"
+    },
+    "Issue Type" : {
+      "Improvement" : "4",
+      "Task" : "3",
+      "Bug" : "1",
+      "New Feature" : "2"
+    },
+    "Description" : {
+      "Demo 10th for Bulk Create." : "Demo 10th for Bulk Create.",
+      "Demo 7th for Bulk Create." : "Demo 7th for Bulk Create.",
+      "Demo 6th for Bulk Create." : "Demo 6th for Bulk Create.",
+      "Demo 5th for Bulk Create." : "Demo 5th for Bulk Create.",
+      "Demo 1st for Bulk Create." : "Demo 1st for Bulk Create.",
+      "Demo 3rd for Bulk Create." : "Demo 3rd for Bulk Create.",
+      "Demo 9th for Bulk Create." : "Demo 9th for Bulk Create.",
+      "Demo 4th for Bulk Create." : "Demo 4th for Bulk Create.",
+      "Demo 8th for Bulk Create." : "Demo 8th for Bulk Create.",
+      "Demo 2nd for Bulk Create." : "Demo 2nd for Bulk Create."
+    },
+    "Component/s" : {
+      "硬件" : "硬件",
+      "软件" : "软件",
+      "工程" : "工程"
+    },
+    "Priority" : {
+      "High" : "2",
+      "Low" : "4",
+      "Medium" : "3",
+      "Lowest" : "5",
+      "Highest" : "1"
+    },
+    "Summary" : {
+      "Bulk Create 1st." : "Bulk Create 1st.",
+      "Bulk Create 2nd." : "Bulk Create 2nd.",
+      "Bulk Create 4th." : "Bulk Create 4th.",
+      "Bulk Create 3rd." : "Bulk Create 3rd.",
+      "Bulk Create 6th." : "Bulk Create 6th.",
+      "Bulk Create 5th." : "Bulk Create 5th.",
+      "Bulk Create 7th." : "Bulk Create 7th.",
+      "Bulk Create 10th." : "Bulk Create 10th.",
+      "Bulk Create 9th." : "Bulk Create 9th.",
+      "Bulk Create 8th." : "Bulk Create 8th."
+    },
+    "Environment" : {
+      "Indoor/Manual" : "Indoor/Manual",
+      "Outdoor/Auto" : "Outdoor/Auto",
+      "Indoor/Auto" : "Indoor/Auto",
+      "Outdoor/Manual" : "Outdoor/Manual"
+    },
+    "Labels" : {
+      "Suggestions" : "Suggestions",
+      "Smartteam" : "Smartteam"
+    },
+    "Affects Version/s" : {
+      "st16_system_v03.01.b30" : "st16_system_v03.01.b30",
+      "st16_system_v03.01.b29" : "st16_system_v03.01.b29",
+      "st16_system_v03.01.b27" : "st16_system_v03.01.b27",
+      "st16_system_v03.01.b28" : "st16_system_v03.01.b28",
+      "st16_system_v03.01.b25" : "st16_system_v03.01.b25",
+      "st16_system_v03.01.b26" : "st16_system_v03.01.b26",
+      "st16_system_v03.01.b23" : "st16_system_v03.01.b23",
+      "st16_system_v03.01.b24" : "st16_system_v03.01.b24",
+      "st16_system_v03.01.b21" : "st16_system_v03.01.b21",
+      "st16_system_v03.01.b22" : "st16_system_v03.01.b22"
+    },
+    "Due Date" : {
+      "19/Jul/16" : "19/Jul/16",
+      "20/Jul/16" : "20/Jul/16",
+      "27/Jul/16" : "27/Jul/16",
+      "18/Jul/16" : "18/Jul/16",
+      "22/Jul/16" : "22/Jul/16",
+      "25/Jul/16" : "25/Jul/16",
+      "26/Jul/16" : "26/Jul/16",
+      "21/Jul/16" : "21/Jul/16",
+      "23/Jul/16" : "23/Jul/16",
+      "24/Jul/16" : "24/Jul/16"
+    }
+  },
+  "config.delimiter" : ",",
+  "config.project" : {
+    "project.key" : "DEMO",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "练习专用",
+    "project.lead" : "chao.guo"
+  },
+  "config.date.format" : "d/mmm/yy"
+}

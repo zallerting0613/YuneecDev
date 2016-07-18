@@ -1,2 +1,11 @@
-Project,Issue Type,Component/s,Priority,Affects Version/s,Assignee,Summary,Description,Attachment,Labels,Due Date,Hardware Version
-ST16(Bug),"	Improvement","	����","	Lowest",st16_system_v03.01.b22,zl.ding,"	Bulk Create First Validation.",This is a breif bulk create validation by zl.ding.,./CreateIssueByCsvImporter.docx,"	Smartteam",13/07/2016 10:10,"	v.01.01.0713"
+﻿Project,Issue Type,Summary,Component/s,Priority,Affects Version/s,Assignee,Environment,Description,Labels,Due Date
+练习专用 (DEMO),Bug,Bulk Create 1st.,工程,Highest,st16_system_v03.01.b21,zl.ding,Indoor/Manual,Demo 1st for Bulk Create. ,Smartteam,18/Jul/16
+练习专用 (DEMO),Improvement,Bulk Create 2nd.,硬件,High,st16_system_v03.01.b22,zl.ding,Outdoor/Auto,Demo 2nd for Bulk Create. ,Suggestions,19/Jul/16
+练习专用 (DEMO),New Feature,Bulk Create 3rd.,软件,Medium,st16_system_v03.01.b23,zl.ding,Indoor/Auto,Demo 3rd for Bulk Create.,Smartteam,20/Jul/16
+练习专用 (DEMO),Task,Bulk Create 4th.,工程,Low,st16_system_v03.01.b24,zl.ding,Outdoor/Manual,Demo 4th for Bulk Create.,Suggestions,21/Jul/16
+练习专用 (DEMO),Bug,Bulk Create 5th.,硬件,Lowest,st16_system_v03.01.b25,zl.ding,Indoor/Manual,Demo 5th for Bulk Create.,Smartteam,22/Jul/16
+练习专用 (DEMO),Improvement,Bulk Create 6th.,软件,Highest,st16_system_v03.01.b26,zl.ding,Outdoor/Auto,Demo 6th for Bulk Create.,Suggestions,23/Jul/16
+练习专用 (DEMO),New Feature,Bulk Create 7th.,工程,High,st16_system_v03.01.b27,zl.ding,Indoor/Auto,Demo 7th for Bulk Create.,Smartteam,24/Jul/16
+练习专用 (DEMO),Task,Bulk Create 8th.,硬件,Medium,st16_system_v03.01.b28,zl.ding,Outdoor/Manual,Demo 8th for Bulk Create.,Suggestions,25/Jul/16
+练习专用 (DEMO),Bug,Bulk Create 9th.,软件,Low,st16_system_v03.01.b29,zl.ding,Indoor/Manual,Demo 9th for Bulk Create.,Smartteam,26/Jul/16
+练习专用 (DEMO),Improvement,Bulk Create 10th.,工程,Lowest,st16_system_v03.01.b30,zl.ding,Outdoor/Auto,Demo 10th for Bulk Create.,Suggestions,27/Jul/16
